@@ -2,7 +2,10 @@ h1{
   color: blue;
   font-size: 100px;
 }
-.pic{
+img{
   height: 150px;
   width: 200px;
+}
+.sum{
+  font: Courier;
 }
